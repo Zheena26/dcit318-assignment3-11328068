@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\bin\Debug\net9.0\InventorySystem.exe
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\bin\Debug\net9.0\InventorySystem.deps.json
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\bin\Debug\net9.0\InventorySystem.runtimeconfig.json
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\bin\Debug\net9.0\InventorySystem.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\bin\Debug\net9.0\InventorySystem.pdb
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.AssemblyInfo.cs
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.sourcelink.json
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\refint\InventorySystem.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.pdb
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\InventorySystem.genruntimeconfig.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318-assignment3-11328068\InventorySystem\obj\Debug\net9.0\ref\InventorySystem.dll
