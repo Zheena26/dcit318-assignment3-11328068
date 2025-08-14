@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Processing\\BankTransferProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Processing\\MobileMoneyProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounts\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Accounts\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinanceApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Processing\\CryptoWalletProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\ITransactionProcessor.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Processing\\ITransactionProcessor.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceApp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeDocumentMoniker": "FinanceApp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\FinanceApp.cs",
+              "RelativeToolTip": "FinanceApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:35:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTransferProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\BankTransferProcessor.cs",
+              "RelativeDocumentMoniker": "Processing\\BankTransferProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\BankTransferProcessor.cs",
+              "RelativeToolTip": "Processing\\BankTransferProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:04:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileMoneyProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\MobileMoneyProcessor.cs",
+              "RelativeDocumentMoniker": "Processing\\MobileMoneyProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\MobileMoneyProcessor.cs",
+              "RelativeToolTip": "Processing\\MobileMoneyProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:05:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptoWalletProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\CryptoWalletProcessor.cs",
+              "RelativeDocumentMoniker": "Processing\\CryptoWalletProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\CryptoWalletProcessor.cs",
+              "RelativeToolTip": "Processing\\CryptoWalletProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:05:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "Accounts\\Account.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\Account.cs",
+              "RelativeToolTip": "Accounts\\Account.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:06:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Accounts\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Accounts\\SavingsAccount.cs",
+              "RelativeToolTip": "Accounts\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:06:59.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransactionProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\ITransactionProcessor.cs",
+              "RelativeDocumentMoniker": "Processing\\ITransactionProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Processing\\ITransactionProcessor.cs",
+              "RelativeToolTip": "Processing\\ITransactionProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:04:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:30:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\dcit318-assignment3-11328068\\FinanceManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:14:23.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
